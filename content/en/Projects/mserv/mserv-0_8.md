@@ -34,10 +34,7 @@ When installed using `pip`, the binary is located within the computer's PATH, wh
 # Installing mserv
 The recommended way to install `mserv` is by using Python's pip package manager. If you don't already have Python installed, head on over to [Python.org](https://www.python.org/) and install it on your computer.  
 
-As of right now, it's recommended that you install Python version `3.9.0` or newer.  
-***
-I'm in the process of making it work on older python versions, but until then, use the newest Python version possible  
-***
+As of right now, it's recommended that you install Python version `3.8.0` or newer.  
 
 *NOTE: If you're on Windows, make sure that, at the very end of the installation, you select the checkbox that "Adds python to PATH"*
 
@@ -69,12 +66,12 @@ Options:
   --help     Show this message and exit.
 
 Commands:
-  run	Execute the server (if multiple, prompt to make a choice will appear)
+  run Execute the server (if multiple, prompt to make a choice will appear)
   setup   Create a new server.
   update  Download a fresh server.jar file from Mojang.
   ~~~
 
-## Port Forwarding
+# Port Forwarding
 This is the part that `mserv` can not help you with, but its worth talking about and make sure you're aware of it.  
 
 
@@ -135,7 +132,7 @@ I encourage you to to do a search and find the specifics for your specific route
 # Final Thoughts 
 As of right now, there are still lots of little typos and inaccuracies in the project. I've already found multiple as I write this page 😩  
 
-I think once I'm able to implement a CI/CD solution for this project, little errors like this should iron out much quicker. But, until then, feel free to create an Issue on the [Github](https://github.com/mexiquin/mserv) page, and help me get my priorities straight!
+I think once I'm able to implement a CI/CD solution for this project, little errors like this should iron out much quicker. But, until then, feel free to create an Issue on the [Gitlab](https://gitlab.com/mexiquin/mserv) page, and help me get my priorities straight!
 
 *-Take it easy*
 
