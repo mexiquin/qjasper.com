@@ -2,7 +2,7 @@
 title: "My First Automation"
 date: 2021-02-13T21:43:39-07:00
 author: Quinton Jasper
-draft: true
+draft: false
 categories:
   - Technology
   - Workflow
