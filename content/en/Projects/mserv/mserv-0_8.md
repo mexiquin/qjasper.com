@@ -91,7 +91,7 @@ I can't really offer an extensive guide for how to do this, since every router i
       ~~~
 
 
-      ![Windows IP Command](/posts/post-img/mserv-0-8-2/win_ip_addr.png)  
+      ![Windows IP Command](/images/post-img/mserv-0-8-2/win_ip_addr.png)  
 
 
       _Your ip address will be under **IPv4 Address**_
@@ -102,7 +102,7 @@ I can't really offer an extensive guide for how to do this, since every router i
       ip addr 
       ~~~  
 
-      ![Linux IP Command](/posts/post-img/mserv-0-8-2/linux_ip_addr.png)  
+      ![Linux IP Command](/images/post-img/mserv-0-8-2/linux_ip_addr.png)  
 
       In my case, if I wanted to run my server on wifi (not recommended), I would use the ip address located under **wlp3s0**. That is my wireless card.  
 
