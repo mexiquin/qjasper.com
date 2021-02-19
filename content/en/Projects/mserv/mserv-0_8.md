@@ -31,7 +31,9 @@ While you *can* host your own server using just this `server.jar` file, I found 
 
 When installed using `pip`, the binary is located within the computer's PATH, which means that you can spawn new servers wherever you want, based on your current working directory. 
 
-# Installing mserv
+# Installing mserv  
+
+## The Easy Way
 The recommended way to install `mserv` is by using Python's pip package manager. If you don't already have Python installed, head on over to [Python.org](https://www.python.org/) and install it on your computer.  
 
 As of right now, it's recommended that you install Python version `3.8.0` or newer.  
@@ -43,7 +45,8 @@ Once Python is installed, run this command in your Terminal/Console
 pip install --user mserv
 ~~~
 
-Which will install everything and you should be all good to go.
+Which will install everything and you should be all good to go.  
+
 
 # Basic Usage  
 ## Simple Commands
@@ -130,9 +133,9 @@ I encourage you to to do a search and find the specifics for your specific route
 
 
 # Final Thoughts 
-As of right now, there are still lots of little typos and inaccuracies in the project. I've already found multiple as I write this page 😩  
+As of right now, there are still lots of little typos and inaccuracies within the project. I've already found multiple as I write this page 😩  
 
-I think once I'm able to implement a CI/CD solution for this project, little errors like this should iron out much quicker. But, until then, feel free to create an Issue on the [Gitlab](https://gitlab.com/mexiquin/mserv) page, and help me get my priorities straight!
+I think once I'm able to implement CI/CD for this project, little errors like this should iron out much quicker. But, until then, feel free to create an Issue on the [Github](https://github.com/mexiquin/mserv) repo, and help me get my priorities straight!
 
 *-Take it easy*
 
