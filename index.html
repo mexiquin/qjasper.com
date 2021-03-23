@@ -19,7 +19,7 @@ title: Home
 <ul>
   {% for project in site.projects limit: 3 %}
       <li>
-          <h2><a href="{{post.url}}">{{ project.title }} v{{project.major_version}}</a></h2>
+          <h2><a href="{{project.url}}">{{ project.title }} v{{project.major_version}}</a></h2>
           {{ project.description }}
       </li>
       {% endfor %}
